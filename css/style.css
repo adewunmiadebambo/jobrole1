@@ -1,0 +1,26 @@
+
+.alignright{
+	float:right;
+	clear:right;
+	margin-left:20px;
+	margin-bottom:10px;
+}
+
+.alignleft{
+	float:left;
+	clear:left;
+	margin-right:20px;
+	margin-bottom:10px;
+}
+
+.aligncenter{
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+}
+
+
+/* to go on top of wp admin bar */
+.peFlareLightbox {
+	z-index: 99999 !important;
+}
